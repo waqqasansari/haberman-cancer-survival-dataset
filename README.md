@@ -1,0 +1,2 @@
+# haberman-cancer-survival-dataset
+*The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.  There are two classes are given name 1 and 2.These are Survival status 1 means patient will survive 5 years or longer 2 means the patient died within 5 year.  OBJECTIVE:- To find whether the patient will survive more than 5 years or die within five year based on age of patient,year of operation and number of positive axillary nodes
